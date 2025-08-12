@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=28&duration=2800&pause=1000&center=true&width=800&lines=Hey+there!+I'm+Radhika+👋;Data+Enthusiast+%7C+Dashboard+Wizard+%7C+Code+Explorer;Turning+Data+into+Decisions+📊;Building+Cool+Projects+🚀" alt="Typing animation" />
+  <img
+    src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=32&duration=2800&pause=1000&center=true&width=1200&lines=Hey+there!+I'm+Radhika+👋;Data+Enthusiast+%7C+Dashboard+Wizard+%7C+Code+Explorer;Turning+Data+into+Decisions+📊;Building+Cool+Projects+🚀"
+    alt="Typing animation"
+  />
 </p>
-
-<!-- CAT GIF removed -->
 
 ---
 
@@ -28,7 +29,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,postgresql,sqlite,powerbi,tableau,html,css,js,github,git" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgresql,mysql,powerbi,tableau,html,css,js,github,git" />
 </p>
 
 ---
@@ -43,7 +44,11 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/radhishukla/radhishukla/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/radhishukla/radhishukla/main/github-contribution-grid-snake.svg"
+    alt="snake animation"
+    width="400"
+  />
 </p>
 
 ---
@@ -57,8 +62,8 @@
 
 ## 📬 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/radhishukla03"><img src="https://img.shields.io/badge/-Let's_Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:radhishukla03@gmail.com"><img src="https://img.shields.io/badge/-Say_Hi!-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/radhishukla03"><img src="https://img.shields.io/badge/-Let's_Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:radhishukla03@gmail.com"><img src="https://img.shields.io/badge/-Say_Hi!-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 <p align="center">
