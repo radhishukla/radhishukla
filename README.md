@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=28&duration=2800&pause=1000&center=true&width=800&lines=Hey+there!+I'm+Rads+👋;Data+Enthusiast+%7C+Dashboard+Wizard+%7C+Code+Explorer;Turning+Data+into+Decisions+📊;Building+Cool+Projects+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=28&duration=2800&pause=1000&center=true&width=800&lines=Hey+there!+I'm+Radhika+👋;Data+Enthusiast+%7C+Dashboard+Wizard+%7C+Code+Explorer;Turning+Data+into+Decisions+📊;Building+Cool+Projects+🚀" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -59,8 +59,8 @@
 
 ## 📬 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/radhika-shukla"><img src="https://img.shields.io/badge/-Let's_Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:radshukla@example.com"><img src="https://img.shields.io/badge/-Say_Hi!-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/radhishukla03"><img src="https://img.shields.io/badge/-Let's_Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:radhishukla03@gmail.com"><img src="https://img.shields.io/badge/-Say_Hi!-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 <p align="center">
