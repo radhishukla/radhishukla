@@ -45,8 +45,7 @@
 ## 🐍 Contribution Snake
 <p align="center">
   <img
-    src="[https://raw.githubusercontent.com/radhishukla/radhishukla/main/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/radhishukla/radhishukla/refs/heads/main/ithub-contribution-grid-snake.svg)"
-    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/radhishukla/radhishukla/refs/heads/main/ithub-contribution-grid-snake.svg"
     width="400"
   />
 </p>
