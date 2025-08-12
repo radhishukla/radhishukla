@@ -42,14 +42,14 @@
 
 ---
 
-## 🐍 Contribution Snake
 <p align="center">
   <img
-    src="https://github-contribution-stats.vercel.app/api/snakes/radhishukla"
-    alt="GitHub Contribution Snake"
-    width="400"
+    src="https://ghchart.rshah.org/radhishukla"
+    alt="GitHub Contribution Chart"
+    width="800"
   />
 </p>
+
 
 ---
 
