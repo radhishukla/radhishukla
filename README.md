@@ -46,11 +46,10 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/radhishukla/radhishukla/main/github-contribution-grid-snake.svg"
-    alt="snake animation"
+    alt="Contribution Snake"
     width="400"
   />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
