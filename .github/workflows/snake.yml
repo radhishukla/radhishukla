@@ -6,21 +6,22 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate-snake:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Generate snake SVG
-        uses: riyadhalnur/github-contribution-grid-snake@v1
+        uses: riyadhalnur/github-contribution-grid-snake@v1.3.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: radhishukla
           output_file: github-contribution-grid-snake.svg
 
-      - name: Commit and push snake SVG
+      - name: Commit snake SVG
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update contribution snake SVG
+          commit_message: "Update contribution snake SVG"
           file_pattern: github-contribution-grid-snake.svg
+
