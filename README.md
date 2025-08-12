@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=28&duration=2800&pause=1000&center=true&width=800&lines=Hey+there!+I'm+Radhika+👋;Data+Enthusiast+%7C+Dashboard+Wizard+%7C+Code+Explorer;Turning+Data+into+Decisions+📊;Building+Cool+Projects+🚀" alt="Typing animation" />
-</p>
+<!-- Typing animation removed -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="600" alt="Glowing Banner">
